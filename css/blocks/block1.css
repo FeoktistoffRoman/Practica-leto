@@ -1,0 +1,42 @@
+.block1__case {
+  position: absolute;
+  margin-top: 600px;
+  margin-left: 175px;
+  width: 1000px;
+}
+
+.block1__text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 82px;
+  line-height: 98px;
+  /* or 120% */
+
+  color: #1e2a39;
+}
+
+.block1__vector {
+  margin-top: -120px;
+  margin-left: 200px;
+  height: 123px;
+  width: 482px;
+}
+
+.block2__case {
+  position: absolute;
+  margin-top: 900px;
+  margin-left: 175px;
+  width: 540px;
+}
+
+.block2__text {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 160%;
+  /* or 38px */
+
+  color: #464646;
+}

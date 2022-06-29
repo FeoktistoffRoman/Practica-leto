@@ -1,18 +1,26 @@
 .block1 {
-  position: absolute;
-  margin-top: 304px;
-  margin-left: 142px;
+  margin-top: 18px;
+  min-height: 940px;
+  margin-left: 172px;
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  margin-right: 120px;
+  min-width: 1500px;
 }
 
 .container1 {
+  z-index: 1;
   position: absolute;
+  min-height: 940px;
 }
 
 .container1__case1 {
-  min-width: 865px;
+  max-width: 865px;
+  margin-top: 120px;
 }
 
-.case1__text1 {
+.container1__case1-text1 {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;
@@ -23,9 +31,7 @@
   color: #1e2a39;
 }
 
-.case1__vector {
-  position: absolute;
-  z-index: 1;
+.container1__case1-vector {
   margin-top: -112px;
   margin-left: 200px;
   min-width: 482px;
@@ -33,11 +39,10 @@
 }
 
 .container1__case1-text2 {
-  margin-top: 16px;
   max-width: 523px;
 }
 
-.case1__text2 {
+.container1__case-text2 {
   font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 400;
@@ -49,5 +54,175 @@
 }
 
 .container1__case2 {
-  margin-top: 120px;
+  display: flex;
+  align-items: center;
+  max-width: 865px;
+  max-height: 180px;
+}
+
+.container1__bag1 {
+  min-width: 220px;
+  max-width: 220px;
+  min-height: 80px;
+  max-height: 80px;
+  background-color: #ea5972;
+  border-radius: 80px;
+  text-align: center;
+  line-height: 80px;
+}
+
+.container1__bag-style {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.container1__bag-ssilka {
+  z-index: 1;
+  display: inline-block;
+  margin-top: 35px;
+}
+
+.container1__bag2 {
+  z-index: 2;
+  max-height: 36px;
+  max-width: 232px;
+  text-align: center;
+  line-height: 36px;
+  margin-left: -35px;
+}
+
+.container1__bag2-style {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #252641;
+}
+
+.container2 {
+  z-index: 2;
+  position: relative;
+  max-height: 940px;
+  width: 950px;
+  margin-left: 750px;
+}
+
+.container2__foto-girl {
+  z-index: -1;
+  margin-left: -360px;
+  margin-top: -160px;
+  transform: rotate(-5deg);
+}
+
+.container2__foto-sticker {
+  z-index: 4;
+  margin-left: 680px;
+  margin-top: -1460px;
+}
+
+.container2__sms1 {
+  z-index: 5;
+  position: absolute;
+  margin-top: -700px;
+  margin-left: -850px;
+}
+
+.container2__sms2 {
+  position: absolute;
+  margin-top: -550px;
+  margin-left: -310px;
+}
+
+.container2__sms2-marck {
+  position: relative;
+  z-index: 6;
+  margin-top: -1070px;
+  margin-left: 20px;
+}
+
+.container2__sms3 {
+  position: absolute;
+  z-index: 6;
+  margin-top: -415px;
+  margin-left: -15px;
+}
+
+.container2__sms3-style1 {
+  z-index: 1;
+  margin-left: -370px;
+  margin-top: -90px;
+}
+
+.container2__sms3-style2 {
+  z-index: 2;
+  position: absolute;
+  margin-top: 60px;
+  margin-left: -15px;
+}
+
+.container2__sms3-text1 {
+  z-index: 2;
+  position: relative;
+  margin-top: -170px;
+  margin-left: 90px;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 180%;
+  /* or 43px */
+
+  letter-spacing: 0.02em;
+
+  color: #595959;
+}
+
+.container2__sms3-text2 {
+  z-index: 2;
+  margin-top: -10px;
+  position: relative;
+  margin-left: 90px;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 180%;
+  /* identical to box height, or 36px */
+
+  letter-spacing: 0.02em;
+
+  color: #545567;
+}
+
+.container2__sms3-button {
+  z-index: 4;
+  position: relative;
+  max-width: 180px;
+  min-width: 180px;
+  min-height: 50px;
+  max-height: 50px;
+  background-color: black;
+  border-radius: 80px;
+  margin-top: 25px;
+  margin-left: 105px;
+  text-align: center;
+  line-height: 50px;
+}
+.container2__sms3-ssilka {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+
+  color: #ffffff;
 }

@@ -1,8 +1,9 @@
 .header {
   display: flex;
   align-items: center;
-  margin-top: 86px;
+  margin-top: -1050px;
   justify-content: space-between;
+  margin-right: 126px;
 }
 .header__logo-wrapper {
   margin-left: 122px;
@@ -36,8 +37,8 @@ p > span {
 }
 
 .header__menu {
-  margin-left: 570px;
-  max-width: 630px;
+  margin-left: 470px;
+  max-width: 600px;
 }
 .header__spisok {
   height: 83px;
@@ -66,6 +67,7 @@ p > span {
 .header__ssilka3 {
 }
 .header__ssilka4 {
+  min-width: 102px;
 }
 .header__knopka-wrapper {
   margin-left: 80px;

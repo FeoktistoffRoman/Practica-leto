@@ -1,0 +1,158 @@
+.block4 {
+  margin-top: 100px;
+}
+
+.block4__text1-case {
+  max-width: 362px;
+  min-height: 79px;
+  margin-left: 779px;
+}
+
+.block4__text2-case {
+  max-width: 1101px;
+  min-height: 129px;
+  margin-left: 410px;
+}
+
+.block4__text1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 180%;
+  /* or 79px */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.block4__text2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 180%;
+  /* or 43px */
+
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #696984;
+}
+
+.block4__group {
+  display: flex;
+  z-index: -2;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+
+.block4__foto1 {
+  z-index: -1;
+  margin-left: 310px;
+  position: absolute;
+}
+
+.block4__vector {
+  margin-top: 100px;
+  z-index: -1;
+  margin-left: 642px;
+}
+
+.block4__case1 {
+  position: absolute;
+  z-index: 1;
+  margin-left: 464px;
+  min-height: 140px;
+  min-width: 292px;
+}
+
+.block4__case1-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.block4__case1-button {
+  margin-top: 17px;
+  min-height: 80px;
+  max-width: 283px;
+  display: flex;
+  align-items: center;
+  border-radius: 80px;
+  border-color: white;
+  border: 2px solid #ffffff;
+}
+
+.block4__case1-button-text {
+  margin-left: 37px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.block4__foto2 {
+  z-index: -1;
+  position: absolute;
+  margin-left: 1010px;
+}
+
+.block4__case2 {
+  position: absolute;
+  z-index: 1;
+  min-height: 140px;
+  min-width: 283px;
+  margin-left: 1169px;
+}
+
+.block4__case2-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.block4__case2-button {
+  margin-top: 17px;
+  background-color: #ea5972;
+  min-height: 80px;
+  max-width: 283px;
+  border-radius: 80px;
+  align-items: center;
+  display: flex;
+}
+
+.block4__case2-button-text {
+  margin-left: 40px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}

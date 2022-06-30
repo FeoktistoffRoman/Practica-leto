@@ -1,0 +1,48 @@
+.block2 {
+  margin-top: 100px;
+  max-width: 1920px;
+  min-height: 200px;
+}
+
+.block2__text {
+  margin-left: 610px;
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 160%;
+  /* identical to box height, or 56px */
+
+  letter-spacing: 0.03em;
+
+  color: #424246;
+}
+
+.block2_case {
+  margin-top: 42px;
+  margin-left: 272px;
+
+  min-height: 100px;
+}
+
+.block2__ssilka2 {
+  margin-left: 90px;
+}
+
+.block2__ssilka3 {
+  margin-left: 90px;
+}
+
+.block2__ssilka4 {
+  position: absolute;
+  margin-left: 90px;
+  margin-top: 20px;
+}
+
+.block2__ssilka5 {
+  margin-left: 345px;
+}
+
+.block2__ssilka6 {
+  margin-left: 90px;
+}

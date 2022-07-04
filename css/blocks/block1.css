@@ -10,7 +10,6 @@
 }
 
 .container1 {
-  z-index: 1;
   position: absolute;
   min-height: 940px;
 }
@@ -83,13 +82,11 @@
 }
 
 .container1__bag-ssilka {
-  z-index: 1;
   display: inline-block;
   margin-top: 35px;
 }
 
 .container1__bag2 {
-  z-index: 2;
   max-height: 36px;
   max-width: 232px;
   text-align: center;
@@ -109,7 +106,6 @@
 }
 
 .container2 {
-  z-index: 2;
   position: relative;
   max-height: 940px;
   width: 950px;

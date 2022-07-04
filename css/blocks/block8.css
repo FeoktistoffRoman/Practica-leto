@@ -1,15 +1,16 @@
 .block8 {
-  position: relative;
-  z-index: -3;
+  position: absolute;
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin-left: 140px;
   margin-right: 140px;
+  height: 800px;
+  width: 1500px;
+  margin-top: 200px;
 }
 
 .block8__text-case {
-  position: absolute;
   max-width: 580px;
   max-height: 900px;
 }
@@ -17,6 +18,7 @@
 .block8__text1-case1 {
   max-width: 171px;
   max-height: 27px;
+  margin-left: 120px;
 }
 
 .block8__text1 {
@@ -117,7 +119,8 @@
 
 .block8__ssilka {
   position: absolute;
-  margin-left: 322px;
+  margin-left: 326px;
+  margin-top: -3px;
 }
 
 .block8__button-text {
@@ -135,14 +138,9 @@
 }
 
 .block8__case-foto {
-  margin-top: 240px;
-  z-index: -2;
-  margin-left: 600px;
   position: relative;
-  margin-left: 880px;
-}
-
-.block8__foto1 {
+  margin-left: 1000px;
+  margin-top: 200px;
 }
 
 .block8__foto2 {
@@ -155,6 +153,8 @@
   z-index: 3;
   margin-top: -260px;
   margin-left: 140px;
+  width: 680px;
+  height: 329px;
 }
 
 .block8__foto-block1 {

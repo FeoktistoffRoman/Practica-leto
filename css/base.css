@@ -7,10 +7,37 @@ body {
 }
 
 .body_fon {
-  z-index: -1;
 }
 
 a {
   display: inline-block;
   text-decoration: none;
+}
+
+.button {
+  transition: 0.5s;
+}
+
+.button:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+.apacity {
+  transition: 0.5s;
+  opacity: 1;
+}
+
+.apacity:hover {
+  transition: 0.5s;
+  opacity: 0.6;
+}
+
+.button1 {
+  transition: 0.5s;
+}
+
+.button1:hover {
+  transform: scale(1.03);
+  transition: 0.5s;
 }

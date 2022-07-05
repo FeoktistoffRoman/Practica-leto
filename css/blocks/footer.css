@@ -71,16 +71,21 @@
 }
 
 .footer__block-case2-case-email {
-  color: white;
-  font-size: 30px;
   background-color: black;
-  margin-left: 10px;
-  border-top-right-radius: 80px;
-  border-bottom-right-radius: 80px;
-  height: 60px;
-  width: 400px;
-  border-radius: 60px;
-  margin-left: -1px;
+  border-color: black;
+  height: 50px;
+  width: 300px;
+  margin-left: 20px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  letter-spacing: 0.04em;
+
+  color: #9e9fae;
 }
 
 .footer__block-case2-case-button {

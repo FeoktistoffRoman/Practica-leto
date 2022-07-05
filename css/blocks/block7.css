@@ -9,7 +9,7 @@
 }
 
 .block7__fotos {
-  position: absolute;
+  position: relative;
   margin-left: 60px;
   min-height: 400px;
   min-width: 400px;
@@ -19,13 +19,13 @@
 .block7__foto1 {
   position: absolute;
   margin-top: 220px;
-  margin-left: 220px;
+  margin-left: 260px;
 }
 
 .block7__foto2 {
   position: absolute;
-  margin-left: 235px;
-  margin-top: 50px;
+  margin-left: 250px;
+  margin-top: 30px;
 }
 
 .block7__foto3 {
@@ -66,8 +66,8 @@
 
 .block7__text2-case2 {
   max-width: 480px;
-  max-height: 116px;
-  margin-top: 15px;
+  max-height: 160px;
+  margin-top: 40px;
 }
 
 .block7__text2 {
@@ -84,7 +84,7 @@
 .block7__text3-case3 {
   max-width: 687px;
   min-height: 129px;
-  margin-top: 20px;
+  margin-top: 25px;
 }
 
 .block7__text3 {

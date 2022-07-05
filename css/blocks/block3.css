@@ -3,7 +3,6 @@
   margin-left: 225px;
   position: relative;
   margin-top: 90px;
-
   height: 761px;
 }
 
@@ -35,8 +34,6 @@
 }
 
 .block3__group {
-  display: flex;
-
   margin-top: 95px;
   min-height: 430px;
   display: flex;
@@ -44,7 +41,6 @@
 
 .block3__pickture1 {
   position: absolute;
-
   margin-left: 135px;
 }
 

@@ -7,22 +7,22 @@
 }
 
 .block9__text-case {
-  max-width: 806px;
-  min-height: 150px;
+  max-width: 706px;
+  min-height: 130px;
   margin-left: 507px;
 }
 
 .block9__text-case1-block {
   max-width: 584px;
-  max-height: 79px;
-  margin-left: 150px;
+  min-height: 79px;
+  margin-left: 130px;
 }
 
 .block9__text1 {
   font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 44px;
   line-height: 180%;
   /* or 79px */
 
@@ -30,7 +30,8 @@
 }
 
 .block9__text-case2-block {
-  margin-top: 8px;
+  position: absolute;
+  margin-top: -20px;
   max-width: 706px;
   max-height: 43px;
 }
@@ -55,12 +56,19 @@
   justify-content: space-between;
 }
 
+.block9__case-part1 {
+  position: absolute;
+  max-width: 800px;
+  max-height: 600px;
+}
+
 .block9__case-foto2 {
   margin-top: 410px;
   margin-left: -650px;
 }
 
 .block9__text-case1 {
+  position: relative;
   margin-top: 20px;
   max-width: 609px;
   max-height: 279px;
@@ -116,6 +124,8 @@
 
 .block9__case-part2 {
   max-width: 800px;
+  max-height: 700px;
+  margin-left: 800px;
 }
 
 .block9__case1 {

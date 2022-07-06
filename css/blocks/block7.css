@@ -10,10 +10,11 @@
 
 .block7__fotos {
   position: relative;
-  margin-left: 60px;
+  margin-left: 100px;
   min-height: 400px;
   min-width: 400px;
   margin-right: -1000px;
+  margin-top: 80px;
 }
 
 .block7__foto1 {

@@ -7,13 +7,13 @@
 }
 
 .block3__case {
-  width: 837px;
+  max-width: 680px;
   min-height: 170px;
-  margin-left: 320px;
+  margin-left: 400px;
 }
 
 .block3__text1 {
-  margin-left: 220px;
+  margin-left: 140px;
   font-family: "Poppins";
   font-style: normal;
   font-weight: 600;

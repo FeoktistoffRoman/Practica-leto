@@ -13,6 +13,7 @@
 .block8__text-case {
   max-width: 580px;
   max-height: 900px;
+  margin-top: -140px;
 }
 
 .block8__text1-case1 {
@@ -69,7 +70,7 @@
 }
 
 .block8__text4-case4 {
-  margin-top: 50px;
+  margin-top: 30px;
   max-width: 573px;
   max-height: 84px;
 }
@@ -111,8 +112,7 @@
   max-width: 403px;
   min-height: 80px;
   border-radius: 80px;
-  border-color: #ef8db3;
-  border: 2px solid #ef8db3;
+  border: 1px solid #ef8db3;
   display: flex;
   align-items: center;
 }
